@@ -1,5 +1,5 @@
 # Further and Further Away Tech Occupations
-Occupations that make-up tech occupations in Further &amp; Further Away
+This page lists the occupations that comprise of technology occupations for each year period considered in the report: Further & Further Away.
 |2001 & 2006                                                                  |      2011       |          2016      |
 |:----------------------------------------------------------------------------|:----------------|:-------------------|
 |Engineering managers|Computer programmers and interactive media developers|Computer programmers and interactive media developers
